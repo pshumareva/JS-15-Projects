@@ -18,5 +18,6 @@ navToggle.addEventListener('click', function(){
     // }
 
     links.classList.toggle('show-links'); //toggles the class in one line
+    
 
 })
